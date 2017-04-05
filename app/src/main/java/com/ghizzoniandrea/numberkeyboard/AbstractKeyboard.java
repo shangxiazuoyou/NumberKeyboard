@@ -1,4 +1,4 @@
-package com.clownjee.numberkeyboard;
+package com.ghizzoniandrea.numberkeyboard;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -13,7 +13,7 @@ import android.widget.PopupWindow;
 import android.widget.TextView;
 
 /**
- * Created by Clownjee on 2017/3/7.
+ * Created by ghizzoniandrea on 2017/3/7.
  */
 class AbstractKeyboard {
 
