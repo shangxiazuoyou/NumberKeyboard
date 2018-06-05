@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="vertical">
@@ -8,7 +7,7 @@
     <View
         android:layout_width="match_parent"
         android:layout_height="0.5dp"
-        android:background="#D5D5D5"/>
+        android:background="#D5D5D5" />
 
     <android.inputmethodservice.KeyboardView
         android:id="@+id/keyboard_view"
@@ -20,8 +19,7 @@
         android:keyBackground="@drawable/bg_keyboardview"
         android:keyTextColor="@color/keyboard_key_text"
         android:paddingBottom="1dp"
-        android:shadowRadius="0"
-        />
+        android:shadowRadius="0" />
 
 </LinearLayout>
 
